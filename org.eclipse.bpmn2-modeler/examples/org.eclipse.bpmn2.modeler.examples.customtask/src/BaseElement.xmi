@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="ASCII"?>
+<bpmn2:BaseElement xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:bpmn2="http://www.omg.org/spec/BPMN/20100524/MODEL-XMI" xsi:schemaLocation="http://www.omg.org/spec/BPMN/20100524/MODEL-XMI ../../org.eclipse.bpmn2/model/BPMN20.ecore"/>

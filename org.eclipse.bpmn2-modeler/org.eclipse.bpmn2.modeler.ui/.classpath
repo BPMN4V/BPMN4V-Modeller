@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="lib" path="lib/antlr-runtime-3.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/aspectjrt.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/xhive-install.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/xhive.jar"/>
+	<classpathentry exported="true" kind="lib" path="META-INF/"/>
+	<classpathentry exported="true" kind="lib" path="icons/"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v7.0"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
